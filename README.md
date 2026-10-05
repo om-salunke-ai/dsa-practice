@@ -4,7 +4,8 @@ My Python solutions and explanations for Data Structures and Algorithms practice
 
 ## Problems
 
-| Problem | Topic | Platform | Solution |
+| Problem | Topic | Platform | Link to folder |
 | --- | --- | --- | --- |
-| [Count the Frequency of Each Character](strings/count_character_frequency/README.md) | Strings | Custom | [Python](strings/count_character_frequency/solution.py) |
-| [Print Characters That Appear Only Once](strings/print_non_repeating_characters/README.md) | Strings | Custom | [Python](strings/print_non_repeating_characters/solution.py) |
+| [Count the Frequency of Each Character](strings/count_character_frequency/README.md) | Strings | Custom | [Folder](strings/count_character_frequency/) |
+| [Print Characters That Appear Only Once](strings/print_non_repeating_characters/README.md) | Strings | Custom | [Folder](strings/print_non_repeating_characters/) |
+| [Print All Repeated Characters](strings/print_repeated_characters/README.md) | Strings | Custom | [Folder](strings/print_repeated_characters/) |
