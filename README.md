@@ -10,3 +10,4 @@ My Python solutions and explanations for Data Structures and Algorithms practice
 | [Print Characters That Appear Only Once](strings/print_non_repeating_characters/README.md) | Strings | Custom | [Folder](strings/print_non_repeating_characters/) |
 | [Print All Repeated Characters](strings/print_repeated_characters/README.md) | Strings | Custom | [Folder](strings/print_repeated_characters/) |
 | [Count Character Frequency While Ignoring Spaces](strings/count_character_frequency_ignoring_spaces/README.md) | Strings | Custom | [Folder](strings/count_character_frequency_ignoring_spaces/) |
+| [Count Character Frequency While Ignoring Letter Case](strings/count_character_frequency_ignoring_case/README.md) | Strings | Custom | [Folder](strings/count_character_frequency_ignoring_case/) |
