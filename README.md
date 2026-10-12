@@ -12,3 +12,4 @@ My Python solutions and explanations for Data Structures and Algorithms practice
 | [Count Character Frequency While Ignoring Spaces](strings/count_character_frequency_ignoring_spaces/README.md) | Strings | Custom | [Folder](strings/count_character_frequency_ignoring_spaces/) |
 | [Count Character Frequency While Ignoring Letter Case](strings/count_character_frequency_ignoring_case/README.md) | Strings | Custom | [Folder](strings/count_character_frequency_ignoring_case/) |
 | [Check Whether Two Strings Are Anagrams (Method 1 — Two Dictionaries)](strings/check_anagrams_two_dictionaries/README.md) | Strings | Custom | [Folder](strings/check_anagrams_two_dictionaries/) |
+| [Check Whether Two Strings Are Anagrams (Method 2 — Counter)](strings/check_anagrams_counter_ignoring_spaces_and_case/README.md) | Strings | Custom | [Folder](strings/check_anagrams_counter_ignoring_spaces_and_case/) |
